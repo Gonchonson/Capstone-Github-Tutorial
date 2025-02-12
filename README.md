@@ -6,8 +6,10 @@
 - open your cloned project in your code editor. For this tutorial we are using VS code.
 - add your name to the list below and save the file. The changes will display in the Source Control tab for VS Code.
 - click the '+' symbol in the Changes section to stage your changes, preparing them for commit to your branch.
-- add a message describing outgoing changes in the commit message block. 
-- create a pull request to merge your changes back into the main branch to sync new changes.
+- add a message describing outgoing changes in the commit message block and click 'commit'.
+- once changes are committed, select Sync Changes to update your branch to be in sync with main. 
+- From github desktop, select Branch > create pull request. This creates a PR which the team can review and comment on before approving it to merge into main.
+- Navigate to the pull request in Github.com and you will see the incoming changes. From here you can choose to merge commit to update main with your new changes. 
 
 Follow these steps and add your name to the list below to confirm you can update a source branch.
 Names: Alex, 
