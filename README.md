@@ -12,4 +12,6 @@
 - Navigate to the pull request in Github.com and you will see the incoming changes. From here you can choose to merge commit to update main with your new changes. 
 
 Follow these steps and add your name to the list below to confirm you can update a source branch.
+
  <br />Names: Russell Cole Stonecypher, Ryan Boudreaux, Robert Gonzalez
+
